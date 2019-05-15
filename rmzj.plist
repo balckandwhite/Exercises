@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://111.231.51.209:8080/ssmtest/rmzj.ipa</string> 
+                    <string>https://github.com/balckandwhite/Exercises/raw/master/rmzj.ipa</string> 
                 </dict>
             </array>
             <key>metadata</key>
@@ -23,7 +23,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>日漫之家</string>
+                <string>日漫之家2</string>
             </dict>
         </dict>
     </array>

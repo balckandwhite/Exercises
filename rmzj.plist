@@ -22,8 +22,8 @@
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
-                <key>日漫之家</key>
-                <string>应用名称</string>
+                <key>title</key>
+                <string>日漫之家</string>
             </dict>
         </dict>
     </array>

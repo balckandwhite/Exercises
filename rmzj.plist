@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>1</string>
+                <string>ios.test.dd11</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>

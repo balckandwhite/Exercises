@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://111.231.51.209:8080/ssmtest/signed_H5D192BBD_0517210017.ipa</string> 
+                    <string>http://hr.buktv.com/web/iOS_debug.ipa</string> 
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>ios.test.dd11</string>
+                <string>uni.UNIEC86334</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>日漫之家</string>
+                <string>zfb</string>
             </dict>
         </dict>
     </array>

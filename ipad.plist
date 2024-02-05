@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+ <key>items</key>
+ <array>
+  <dict>
+   <key>assets</key>
+   <array>
+    <dict>
+     <key>kind</key>
+     <string>software-package</string>
+     <key>url</key>
+     <!-- http或者https链接的ipa文件地址 -->
+     <string>http://1.94.45.78:90/route/down.ipa</string>
+    </dict>
+    <dict>
+     <key>kind</key>
+     <string>full-size-image</string>
+     <key>needs-shine</key>
+     <true/>
+     <key>url</key>
+     <!-- http或者https链接的应用图标 正常尺寸 （都用一个也行, 分辨率没强制要求）-->
+     <string>https://xxxxxxx.com/icon.png</string>
+    </dict>
+    <dict>
+     <key>kind</key>
+     <string>display-image</string>
+     <key>needs-shine</key>
+     <true/>
+     <key>url</key>
+     <!-- http或者https链接的应用图标，最小尺寸 （都用一个也行, 分辨率没强制要求） -->
+     <string>https://xxxxxxx.com/icon.png</string>
+    </dict>
+   </array>
+   <key>metadata</key>
+   <dict>
+    <key>bundle-identifier</key>
+    <!-- BundleID，应用的包名 -->
+    <string>1634609811</string>
+    <key>bundle-version</key>
+    <!-- 版本号 -->
+    <string>1.0</string>
+    <key>kind</key>
+    <string>software</string>
+    <key>title</key>
+    <!-- 安装app时的提示名称 -->
+    <string>测试应用</string>
+   </dict>
+  </dict>
+ </array>
+</dict>
+</plist>
